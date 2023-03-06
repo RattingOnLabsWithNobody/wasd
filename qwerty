@@ -1,0 +1,131 @@
+<html>
+
+<head>
+
+<title>Guided Hacking - Learn How to Hack</title>
+
+<meta name="description" content="Learn how to hack with Guided Hacking. We provide step by step tutorials on hacking techniques and tools.">
+
+<meta name="keywords" content="hack, hacking, hacking tutorial, hacking tools, hacking techniques">
+
+<meta name="author" content="Guided Hacking">
+
+<meta charset="UTF-8">
+
+<!-- CSS -->
+
+<link rel="stylesheet" type="text/css" href="https://guidedhacking.com/css/style.css%22%3E
+
+</head>
+
+<body>
+
+<!-- start header -->
+
+<div id="header">
+
+<div id="logo">
+
+<a href="https://guidedhacking.com/%22%3E<img src="https://guidedhacking.com/images/logo.png" alt="Guided Hacking" /></a>
+
+</div>
+
+<ul id="menu">
+
+<li><a href="https://guidedhacking.com/%22%3EHOME</a></li>
+
+<li><a href="https://guidedhacking.com/tutorials/%22%3ETUTORIALS</a></li>
+
+<li><a href="https://guidedhacking.com/forum/%22%3EFORUM</a></li>
+
+</ul>
+
+</div>
+
+<!-- end header -->
+
+<!-- start content -->
+
+<div id="content">
+
+<div id="left_column">
+
+
+
+<div class="post">
+
+<h2>Welcome to Guided Hacking</h2>
+
+<div class="post_info">
+
+Posted on October 26th, 2012 by gh<br />
+
+Filed under <a href="https://guidedhacking.com/tutorials/%22%3ETutorials</a>
+
+</div>
+
+<p>Guided Hacking is a website dedicated to helping people learn how to hack. We provide step by step tutorials on various hacking topics and tools. We also have an active <a href="https://guidedhacking.com/forum/%22%3Eforum</a> where users can ask questions and help each other out.</p>
+
+<p>If you're new to hacking or just looking to learn more, we recommend checking out our <a href="https://guidedhacking.com/tutorials/%22%3Etutorials</a> section. We have a wide range of tutorials available, covering topics such as basic hacking tools and techniques, game hacking, and more.</p>
+
+<p>Thanks for visiting Guided Hacking!</p>
+
+</div>
+
+
+
+</div>
+
+</div>
+
+<!-- end content -->
+
+<!-- start sidebar -->
+
+<div id="sidebar">
+
+
+
+<div class="sidebar_box">
+
+<h2>Tutorials</h2>
+
+<ul>
+
+<li><a href="https://guidedhacking.com/tutorials/%22%3EAll Tutorials</a></li>
+
+<li><a href="https://guidedhacking.com/tutorials/category/1/%22%3EBasics</a></li>
+
+<li><a href="https://guidedhacking.com/tutorials/category/2/%22%3EGame Hacking</a></li>
+
+<li><a href="https://guidedhacking.com/tutorials/category/3/%22%3EWeb Hacking</a></li>
+
+<li><a href="https://guidedhacking.com/tutorials/category/4/%22%3ENetwork Hacking</a></li>
+
+</ul>
+
+</div>
+
+
+
+</div>
+
+<!-- end sidebar -->
+
+<div class="clear"></div>
+
+</div>
+
+<!-- start footer -->
+
+<div id="footer">
+
+<p>Copyright &copy; 2012 Guided Hacking. All Rights Reserved.</p>
+
+</div>
+
+<!-- end footer -->
+
+</body>
+
+</html>
